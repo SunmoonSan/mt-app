@@ -1,12 +1,12 @@
 <template>
   <el-row :gutter="0" class="m-header">
-    <el-col :span="4">
+    <el-col :span="5">
       <geo />
     </el-col>
     <el-col :span="8">
       <user />
     </el-col>
-    <el-col :span="12">
+    <el-col :span="11">
       <nav-bar />
     </el-col>
   </el-row>
